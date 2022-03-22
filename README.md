@@ -11,7 +11,7 @@ each folder is published as NPM package. that is the dependency of the `sandbox`
 
 `parent` folder is for using plain JS for requiring the packages.
 
-`sandbox` folder is tiny react app for actually running build in it.
+`sandbox` folder is tiny react app for actually running build in it ([`sandbox/src/App.ts`](https://github.com/rluvaton/mobx-bug-repro-3345/blob/master/sandbox/src/App.js) is where importing the helper packages).
 
 ## Usage
 
