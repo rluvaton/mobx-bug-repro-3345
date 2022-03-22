@@ -1,0 +1,23 @@
+{
+  "name": "@rluvaton-debugging/child1",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "dependencies": {
+    "mobx": "^6.3.3",
+    "mobx-react-lite": "^3.2.1"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.4.1"
+  },
+  "description": ""
+}

@@ -1,0 +1,20 @@
+{
+  "name": "parent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mobx": "^5.15.7",
+    "mobx-react": "^6.3.1",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "@rluvaton-debugging/child1": "*",
+    "@rluvaton-debugging/child2": "*"
+  }
+}
